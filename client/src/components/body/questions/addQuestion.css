@@ -1,0 +1,18 @@
+.content{
+    margin-top: 0%;
+}
+.options{
+    text-align: center;
+    align-items: center;
+    margin-top: 50px;
+    border: black;
+    border-color: black;
+}
+.form_group{
+    align-items: center;
+    margin: auto auto;
+
+}
+.submit_button{
+    margin-top: 50px;
+}

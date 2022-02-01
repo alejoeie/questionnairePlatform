@@ -1,0 +1,28 @@
+.card {
+  max-width: 400px;
+  width: 80%;
+  text-align: center;
+  margin: auto auto;
+
+}
+.question-content{
+  margin-top: 10%;
+}
+.content{
+  margin-top: 15%;
+}
+label.radio {
+  display: block;
+  text-align: left;
+  padding: 15px;
+  margin-bottom: 5px;
+  font-size: 20px;
+}
+
+label.radio+.radio {
+  margin-left: 0;
+}
+
+label.radio input {
+  margin-right: 10px;
+}

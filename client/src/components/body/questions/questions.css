@@ -1,0 +1,25 @@
+.content {
+    align-items: center;
+    max-width: 500px;
+    display: flex;
+    justify-content: space-around;
+    /* flex-direction: column-reverse; */
+    display: block;
+    align-items: center; 
+    margin: auto auto;
+    margin-top: 200px;
+  }
+  .content h2{
+    justify-content: space-between;
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  .settings_select {
+    
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    width: 100%;
+    flex: 0.8;
+    justify-content: space-evenly;
+  }
