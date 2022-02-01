@@ -1,4 +1,4 @@
-# questionnairePlatform
+# Online Questionary Platform
 An online quiz platform for university admission tests. 
 
 This is one of my greatest web development projects so far, and it consists of connecting some endpoints designed for saving data related to questionnaires that the admin
