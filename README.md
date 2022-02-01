@@ -13,8 +13,8 @@ For future jobs, consider that you need to change the google secrets in order to
 ## How to run it on your local server?
 
 1. First of all, cd into both folders apis and client.
-2. Run npm install on both folders.
-3. After installing node modules, go to apis folder and run npm run dev (remember to change the google secrets on google.console.com
+2. Run npm install on both folders. Be sure you have the latest npm or nodejs. Otherwise it will not work. 
+3. After installing node modules, go to apis folder and run npm run dev (remember to change the google secrets on google.console.com)
 4. Later on, cd into client directory and run npm start on terminal. A localhost should open on your browser.
 
 
