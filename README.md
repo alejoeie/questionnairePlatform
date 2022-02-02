@@ -5,7 +5,7 @@ This is one of my greatest web development projects so far, and it consists of c
 can create when needed. 
 
 It still has some breakpoints that do not let the application be deployed and it needs to adjust some backend design, specfically just one endpoint called getQuestion
-that is the one in charge of rendering data to the user directly. It crashes when multiple questions are added to the same questionary. 
+that is the one in charge of rendering data to the user directly, specifically the one that is related to giving the question statement, the options, and it works directly with updateAnswer, that is in charge of updating the received answer and saves the optionId as the marked one by the user. It crashes when multiple questions are added to the same questionary. 
 
 For future jobs, consider that you need to change the google secrets in order to make sendMail controller work, otherwise, it will not let any user register or login.
 
